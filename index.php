@@ -37,6 +37,9 @@ get_header(); ?>
 				/* Start the Loop */
 				while ( have_posts() ) :
 					the_post();
+					the_title();
+					the_time();
+					
 
 					/*
 					 * Include the Post-Format-specific template for the content.
