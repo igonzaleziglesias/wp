@@ -11,3 +11,31 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyseventenchild
 */
+
+h3 {
+	color: red;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 300;
+}
+
+p {
+	color: green;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 300;
+}
+
+h1 {
+	color: blue;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 300;
+}
+
+hr {
+	background-color: black;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
